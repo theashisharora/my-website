@@ -1,0 +1,30 @@
+h1 {
+    margin: auto 565px auto 565px; 
+    color: red; 
+    display: flex; 
+    border: 2px solid green; 
+    border-radius: 4px; 
+    height: 50px;
+}
+
+a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 5%;
+    width: 123px;
+    height: 20px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-color: rgb(127, 127, 247);
+    text-decoration: dashed;
+    color: white;
+    padding: 6px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+a:hover {
+    background-color: darkblue;
+    color: gold;
+}
