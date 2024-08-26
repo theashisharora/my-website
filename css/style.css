@@ -60,6 +60,7 @@ a {
     text-decoration: dashed;
     color: white;
     padding: 6px;
+    white-space: nowrap;
     transition: background-color 0.3s, color 0.3s;
 }
 
