@@ -70,7 +70,7 @@ a:hover {
 
 @media (max-width: 768px) {
     .heading {
-        max-width: 90%;
+        max-width: 25%;
     }
 
     h1 {
