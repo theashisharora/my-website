@@ -70,14 +70,14 @@ a:hover {
 
 @media (max-width: 768px) {
     .heading {
-        margin: 10px auto;
-        max-width: 100%;
+        max-width: 90%;
     }
 
     h1 {
         font-size: 1.5em;
     }
 }
+
 @media (max-width: 480px) {
     h1 {
         font-size: 1.2em;
@@ -89,6 +89,6 @@ a:hover {
 
     a {
         width: 100%;
-        padding: 8px 0;
+        height: auto;
     }
 }
